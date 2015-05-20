@@ -35,6 +35,7 @@
       <buildFile>build/build.xml</buildFile>
       <name>(Default)</name>
       <targets>build
+site-install
 analyze
 verify
 docs</targets>
